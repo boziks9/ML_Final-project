@@ -1,4 +1,4 @@
-# ML_Final-project: Russian News Topic Classification**
+# ML_Final-project: Russian News Topic Classification
 
 Этот проект посвящён автоматической классификации новостных текстов с сайта Lenta.ru по темам с помощью современных методов обработки естественного языка (NLP) и машинного обучения.
 
